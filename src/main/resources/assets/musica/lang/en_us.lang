@@ -1,0 +1,20 @@
+config.musica.title=Musica General Config
+config.musica.show_popup=Show First-Time Popup
+config.musica.disable_vanilla=Disable Vanilla Music
+
+menu.musica.disable_vanilla=Vanilla Music: %1$s
+
+popup.title.muted=Welcome To Musica
+popup.title.unmuted=Welcome To Musica
+
+popup.info.muted=It appears you've %2$smuted music%1$s in Minecraft...||Musica is a mod that allows other mods to add their own music with logic on when it should be played. Presumably the modpack you've installed has some custom music it wishes to play!|However, Musica respects your music volume preferences. Just like vanilla Minecraft's music, turning down the music volume to 0%% %2$smutes all music%1$s played through Musica.|But that doesn't have to mean you don't get to listen to the custom music provided by your mods! Musica allows you to disable vanilla music specifically and let custom musics play. Or you can turn on all music again, and let the tunes play! The choice is yours, and no matter what you pick here, you can change your mind later in the %2$ssounds option screen%1$s.||So... how would you like to proceed?
+popup.button.muted.leave_muted=Leave All Muted
+popup.button.muted.mute_vanilla=Mute Vanilla Only
+popup.button.muted.unmute_all=Unmute Everything
+
+popup.info.unmuted=Musica is a mod that allows other mods to add their own music with logic on when it should be played. Presumably the modpack you've installed has some custom music it wishes to play!|However, Musica respects your music volume preferences. Just like vanilla Minecraft's music, turning down the music volume to 0%% %2$smutes all music%1$s played through Musica.|But that doesn't have to mean you don't get to listen to the custom music provided by your mods! Musica allows you to disable vanilla music specifically and let custom musics play. Or you can turn on all music again, and let the tunes play! The choice is yours, and no matter what you pick here, you can change your mind later in the %2$ssounds option screen%1$s.||So... how would you like to proceed?
+popup.button.unmuted.leave_unmuted=Leave All Unmuted
+popup.button.unmuted.mute_vanilla=Mute Vanilla Only
+popup.button.unmuted.mute_all=Mute Everything
+
+popup.footnote=%2$sNote: This screen will only show itself once per installation.%1$s :)

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "musica",
+  "name": "Musica",
+  "description": "Small transformative mod that allows other mods to register different, more interesting musical tracks to play around different gameplay events.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Skyler Manzanares"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
